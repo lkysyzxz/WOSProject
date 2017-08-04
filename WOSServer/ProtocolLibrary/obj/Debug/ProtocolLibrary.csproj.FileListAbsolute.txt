@@ -1,0 +1,5 @@
+C:\Code\C#代码\WOSServer\ProtocolLibrary\bin\Debug\ProtocolLibrary.dll
+C:\Code\C#代码\WOSServer\ProtocolLibrary\bin\Debug\ProtocolLibrary.pdb
+C:\Code\C#代码\WOSServer\ProtocolLibrary\obj\Debug\ProtocolLibrary.dll
+C:\Code\C#代码\WOSServer\ProtocolLibrary\obj\Debug\ProtocolLibrary.pdb
+C:\Code\C#代码\WOSServer\ProtocolLibrary\obj\Debug\ProtocolLibrary.csprojResolveAssemblyReference.cache

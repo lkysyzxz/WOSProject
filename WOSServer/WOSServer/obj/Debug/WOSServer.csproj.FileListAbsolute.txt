@@ -1,0 +1,14 @@
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\WOSServer.exe.config
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\WOSServer.exe
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\WOSServer.pdb
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\AbsNet.dll
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\MessageClass.dll
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\ProtocolLibrary.dll
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\WOSDatabaseTool.dll
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\AbsNet.pdb
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\MessageClass.pdb
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\ProtocolLibrary.pdb
+C:\Code\C#代码\WOSServer\WOSServer\bin\Debug\WOSDatabaseTool.pdb
+C:\Code\C#代码\WOSServer\WOSServer\obj\Debug\WOSServer.exe
+C:\Code\C#代码\WOSServer\WOSServer\obj\Debug\WOSServer.pdb
+C:\Code\C#代码\WOSServer\WOSServer\obj\Debug\WOSServer.csprojResolveAssemblyReference.cache

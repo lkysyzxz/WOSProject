@@ -1,0 +1,5 @@
+C:\Code\C#代码\WOSServer\AbsNet\bin\Debug\AbsNet.dll
+C:\Code\C#代码\WOSServer\AbsNet\bin\Debug\AbsNet.pdb
+C:\Code\C#代码\WOSServer\AbsNet\obj\Debug\AbsNet.dll
+C:\Code\C#代码\WOSServer\AbsNet\obj\Debug\AbsNet.pdb
+C:\Code\C#代码\WOSServer\AbsNet\obj\Debug\AbsNet.csprojResolveAssemblyReference.cache

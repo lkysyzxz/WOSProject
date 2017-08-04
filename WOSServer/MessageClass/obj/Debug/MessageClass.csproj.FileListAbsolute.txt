@@ -1,0 +1,5 @@
+C:\Code\C#代码\WOSServer\MessageClass\bin\Debug\MessageClass.dll
+C:\Code\C#代码\WOSServer\MessageClass\bin\Debug\MessageClass.pdb
+C:\Code\C#代码\WOSServer\MessageClass\obj\Debug\MessageClass.dll
+C:\Code\C#代码\WOSServer\MessageClass\obj\Debug\MessageClass.pdb
+C:\Code\C#代码\WOSServer\MessageClass\obj\Debug\MessageClass.csprojResolveAssemblyReference.cache

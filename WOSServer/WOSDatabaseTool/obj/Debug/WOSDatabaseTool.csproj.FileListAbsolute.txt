@@ -1,0 +1,7 @@
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\bin\Debug\WOSDatabaseTool.dll
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\bin\Debug\WOSDatabaseTool.pdb
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\bin\Debug\MessageClass.dll
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\bin\Debug\MessageClass.pdb
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\obj\Debug\WOSDatabaseTool.dll
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\obj\Debug\WOSDatabaseTool.pdb
+C:\Code\C#代码\WOSServer\WOSDatabaseTool\obj\Debug\WOSDatabaseTool.csprojResolveAssemblyReference.cache
